@@ -1,0 +1,15 @@
+:root {
+  --berg-charcoal: #1F1F1F;
+  --berg-ochre: #B7791F;
+  --berg-paper: #FBFAF7;
+  --berg-ochre-deep: #8A5A12;
+  --berg-stone: #6B6862;
+  --berg-rule: #E4E0D6;
+  --berg-night: #171716;
+  --berg-ochre-light: #D9A441;
+  --berg-font-sans: 'Libre Franklin', 'Franklin Gothic Book', Arial, sans-serif;
+  --berg-font-serif: 'EB Garamond', Garamond, Georgia, serif;
+}
+
+/* Load the fonts from Google Fonts: */
+/* @import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@300;400;600&family=EB+Garamond:ital,wght@0,400;0,600;1,400&display=swap'); */
